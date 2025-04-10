@@ -41,7 +41,8 @@ A comprehensive collection of guides and commands for Android Debug Bridge (ADB)
 
 1. Install ADB Tools
    ```bash
-   # Windows: Download from Android SDK Platform Tools
+   # Windows:
+   Download from [Android SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools?hl=de)
    # Linux:
    sudo apt-get install adb
    # macOS:
